@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandesh Sajjanar
 
-🚀Senior Data Analyst | Machine Learning | RAG | LLMs | Agentic AI
+🚀Senior Data Analyst | RAG | LLMs | Agentic AI | ML
 
 ---
 
