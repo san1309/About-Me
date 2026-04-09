@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sandesh Sajjanar
 
-🚀 AI Engineer | Machine Learning | RAG | LLMs | Agentic AI
+🚀Senior Data Analyst | Machine Learning | RAG | LLMs | Agentic AI
 
 ---
 
@@ -19,9 +19,9 @@ I focus on solving **real-world problems**, improving **AI reliability**, and re
 
 ## 🔭 What I'm Currently Working On
 
-* Enhancing **RAG evaluation frameworks** (precision, recall, faithfulness)
 * Designing **multi-agent AI systems** for automation
 * Building **end-to-end AI applications** with deployment
+* Enhancing **RAG evaluation frameworks** 
 
 ---
 
@@ -55,11 +55,11 @@ FAISS | Pinecone | FastAPI | Streamlit
 
 * Designed **multi-agent system** for task automation
 * Implemented **orchestration & decision-making logic**
-* Explored frameworks like CrewAI / LangGraph
+* Explored frameworks like CrewAI / LangGraph / Autogen
 
 ---
 
-### 📊 ML Project (Add yours here)
+### 📊 ML Project
 
 * Example: Customer churn prediction / NLP classification
 * End-to-end pipeline: data → model → evaluation → deployment
@@ -70,15 +70,15 @@ FAISS | Pinecone | FastAPI | Streamlit
 
 * I don’t just build models — I build **complete AI systems**
 * Strong focus on **evaluation, reliability, and real-world usability**
-* Hands-on with **both ML + GenAI (rare combination)**
+* Hands-on with **both ML + GenAI**
 
 ---
 
 ## 📫 Let's Connect
 
 * 💼 Open to: AI Engineer / ML Engineer roles
-* 🌐 LinkedIn: *(add your link)*
-* 📧 Email: *(optional)*
+* 🌐 LinkedIn: *https://www.linkedin.com/in/sandesh-sajjanar-8b99a8196*
+* 📧 Email: *sandeshsajjanar1212@gmail.com*
 
 ---
 
