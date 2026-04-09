@@ -8,10 +8,10 @@
 
 I build **production-ready AI systems** that combine:
 
-* 🤖 Machine Learning & Deep Learning
 * 📚 Retrieval-Augmented Generation (RAG)
 * 🧩 LLM-powered applications
 * 🔄 Agentic workflows & multi-agent systems
+* 🤖 Machine Learning & Deep Learning
 
 I focus on solving **real-world problems**, improving **AI reliability**, and reducing **hallucinations in LLM systems**.
 
